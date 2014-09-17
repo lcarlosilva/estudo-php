@@ -15,9 +15,11 @@
 *.settings\org.eclipse.core.resources.prefs
 *.settings\org.eclipser.php.core.prefs
 *.settings\org.eclipse.wst.common.project.facet.core.xml
-#end Eclipse#
+#end_Eclipse#
 
-*\nbproject\project.xml
-*\nbproject\private\private.properties
-*\nbproject\private\private.xml
-*\nbproject\private\project.properties
+#doProjeto#
+nbproject\project.xml
+nbproject\private\private.properties
+nbproject\private\private.xml
+nbproject\private\project.properties
+#end_doProjeto#
