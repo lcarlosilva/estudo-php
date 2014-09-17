@@ -18,8 +18,8 @@
 #end_Eclipse#
 
 #doProjeto#
-nbproject\project.xml
-nbproject\private\private.properties
-nbproject\private\private.xml
-nbproject\private\project.properties
+*\nbproject\project.xml
+*\nbproject\private\private.properties
+*\nbproject\private\private.xml
+*\nbproject\private\project.properties
 #end_doProjeto#
