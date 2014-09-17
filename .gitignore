@@ -4,3 +4,16 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+
+# Eclipse #
+.project
+.classpath
+.settings
+.checkstyle
+.apt_generated
+.buildpath
+
+*/nbproject/project.xml
+*/nbproject/private/private.properties
+*/nbproject/private/private.xml
+*/nbproject/private/project.properties
