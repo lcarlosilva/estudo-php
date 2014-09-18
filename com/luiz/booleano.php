@@ -9,7 +9,6 @@
 		echo 'José da silva';
 	}	
 	
-	//--
 	
 	//declara variavel numerica
 	$umidade = 91;
