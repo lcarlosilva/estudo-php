@@ -9,10 +9,14 @@
 		echo 'José da silva';
 	}	
 	
-	
 	//declara variavel numerica
 	$umidade = 91;
 	
-	$vai_chover = ($umi);
+	$vai_chover = ($umidade > 90);
+	
+	//testa se $vai_chover é verdadeiro
+	if ($vai_chover){
+		echo '<br>Está chovendo';
+	}
 
 ?>
