@@ -5,10 +5,10 @@ repositorio de projetos de estudo em PHP
 
 <ol>
 	<li>
-		<h3>Introducao ao PHP</h3>
+		<h1>Introducao ao PHP</h1>
 		<ul>
 			<li>
-				<h5>Oque é PHP</h5>
+				<h3>Oque é PHP</h3>
 			</li>
 		</ul>
 	</li>
