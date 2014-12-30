@@ -10,4 +10,4 @@
         $this->db->set('tpeCod', $evento->tpeCod);
 
         return $this->db->insert($evento->__tabela);
- }
+    }
