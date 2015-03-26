@@ -5,7 +5,7 @@
 */cache/!index.html
 */cache/!.htaccess
 
-# Eclipse #
+#Eclipse#
 .project
 .classpath
 .settings
@@ -15,4 +15,7 @@
 *.settings\org.eclipse.core.resources.prefs
 *.settings\org.eclipser.php.core.prefs
 *.settings\org.eclipse.wst.common.project.facet.core.xml
-# end_Eclipse #
+#end_Eclipse#
+
+#NetBeans
+/nbproject/private/
